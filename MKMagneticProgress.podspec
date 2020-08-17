@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MKMagneticProgress'
-  s.version          = '1.4'
+  s.version          = '1.4.1'
   s.summary          = 'A circular progress bar for iOS written in Swift.'
 
 # This description is used to generate tags and improve search results.
